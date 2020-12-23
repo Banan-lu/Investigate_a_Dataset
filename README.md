@@ -5,7 +5,7 @@ Investigating the Medical Appointment Dataset , it's contains information on ove
 
 The dataset that I have chosen 'No-show appointments' from data set option that udacity gave .. 
 
-It was created to study what factors were useful in predicting if patients would miss thier appointments.
+It was created to study what factors were useful in predicting if patients would miss their appointments.
 # Project Overview
 In this project, I will analyze a dataset and then communicate my findings about it.
 
